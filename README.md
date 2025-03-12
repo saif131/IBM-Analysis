@@ -21,7 +21,7 @@ The CSV file contains the following headers:
 - **Performance Score**: Performance evaluation score of the employee.
 
 ## Screenshot
-![Power BI Dashboard]![Screenshot](https://github.com/saif131/IBM-Analysis/blob/main/Screenshot%20(288).png)
+![Screenshot](https://github.com/saif131/IBM-Analysis/blob/main/Screenshot%20(288).png)
 
 ## Getting Started
 To get started with the analysis, open the `IBM.xlsx` file in your preferred spreadsheet application.
